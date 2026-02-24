@@ -1,0 +1,101 @@
+Institution Name,Region,Institution Type,AI Tool,Tool Category,Adoption Year,Usage %,Satisfaction %,Student_Performance_Before,Student_Performance_After
+BlueSky University,Karnataka,College,AI Grading,Assessment,2022,65,85,75,88
+Bright Future College,Telangana,School,Smart Tutor,Learning Support,2021,57,94,66,80
+LMN High School,Odisha,School,Predictive Analysis,Performance Analytics,2021,55,93,58,66
+Skyline College,Karnataka,University,Smart Tutor,Learning Support,2022,88,76,63,74
+Vision Institute,Odisha,College,Predictive Analysis,Performance Analytics,2022,86,93,60,75
+GreenField University,Uttar Pradesh,School,AI Grading,Assessment,2021,88,90,63,69
+Bright Future College,Maharashtra,University,AI Grading,Assessment,2022,55,87,71,76
+GreenField University,Delhi,College,Smart Tutor,Learning Support,2021,80,93,64,72
+Vision Institute,Madhya Pradesh,School,Chatbot,Student Support,2022,53,91,64,77
+Harmony School,Assam,College,Predictive Analysis,Performance Analytics,2022,54,79,71,78
+Bright Future College,Tamil Nadu,University,Smart Tutor,Learning Support,2023,51,81,68,79
+Vision Institute,Odisha,School,AI Grading,Assessment,2021,67,72,67,81
+BlueSky University,West Bengal,School,Chatbot,Student Support,2022,54,77,74,81
+GreenField University,Kerala,University,Smart Tutor,Learning Support,2023,50,94,55,68
+BlueSky University,Madhya Pradesh,College,AI Grading,Assessment,2022,77,89,72,77
+Sunshine School,Kerala,College,Smart Tutor,Learning Support,2021,76,72,61,67
+Sunshine School,Haryana,School,Predictive Analysis,Performance Analytics,2021,67,92,55,62
+Bright Future College,Rajasthan,University,Chatbot,Student Support,2023,72,90,73,82
+ABC School,West Bengal,School,AI Grading,Assessment,2021,77,89,64,73
+FutureEdge College,Tamil Nadu,University,AI Grading,Assessment,2022,88,72,56,70
+GreenField University,Odisha,University,Predictive Analysis,Performance Analytics,2023,79,70,56,64
+Inspire School,Tamil Nadu,School,Chatbot,Student Support,2021,59,87,58,73
+NextGen College,Haryana,College,Smart Tutor,Learning Support,2023,67,89,65,73
+Harmony School,Rajasthan,School,Predictive Analysis,Performance Analytics,2021,55,94,60,66
+Skyline College,Gujarat,School,AI Grading,Assessment,2021,51,74,64,76
+Bright Future College,Odisha,University,Smart Tutor,Learning Support,2023,43,82,58,66
+FutureEdge College,Telangana,College,Smart Tutor,Learning Support,2023,90,75,55,70
+Vision Institute,Delhi,School,Smart Tutor,Learning Support,2021,72,89,60,69
+Inspire School,Delhi,University,Predictive Analysis,Performance Analytics,2022,69,73,65,70
+BlueSky University,Haryana,University,Smart Tutor,Learning Support,2022,70,94,63,74
+BlueSky University,Madhya Pradesh,University,Predictive Analysis,Performance Analytics,2023,76,85,64,75
+Harmony School,Telangana,School,AI Grading,Assessment,2023,66,70,67,79
+TechRise University,Haryana,School,Predictive Analysis,Performance Analytics,2021,79,81,73,80
+TechRise University,West Bengal,College,Chatbot,Student Support,2023,45,77,56,70
+NextGen College,Kerala,College,Smart Tutor,Learning Support,2021,87,76,62,77
+FutureEdge College,Kerala,School,Smart Tutor,Learning Support,2021,70,71,58,73
+Harmony School,Kerala,University,Chatbot,Student Support,2022,86,85,61,71
+NextGen College,West Bengal,University,Predictive Analysis,Performance Analytics,2023,42,81,63,68
+ABC School,Punjab,School,AI Grading,Assessment,2023,88,80,65,78
+Skyline College,Odisha,College,Smart Tutor,Learning Support,2021,56,77,60,71
+Harmony School,Odisha,University,Chatbot,Student Support,2021,75,76,66,74
+Vision Institute,Madhya Pradesh,University,AI Grading,Assessment,2023,87,94,59,65
+GreenField University,Punjab,School,Predictive Analysis,Performance Analytics,2023,77,90,69,76
+GreenField University,Kerala,College,Smart Tutor,Learning Support,2022,87,81,62,75
+Skyline College,Haryana,College,AI Grading,Assessment,2023,46,79,67,79
+Skyline College,Haryana,College,Predictive Analysis,Performance Analytics,2023,49,89,56,63
+XYZ College,West Bengal,College,Smart Tutor,Learning Support,2021,63,83,74,81
+NextGen College,Maharashtra,University,Chatbot,Student Support,2022,68,80,72,87
+Harmony School,Uttar Pradesh,School,Predictive Analysis,Performance Analytics,2022,77,86,66,71
+PQR University,Tamil Nadu,College,Chatbot,Student Support,2022,75,76,61,76
+PQR University,Assam,School,AI Grading,Assessment,2023,66,78,66,80
+LMN High School,Haryana,University,Smart Tutor,Learning Support,2022,80,85,69,80
+NextGen College,Uttar Pradesh,College,Chatbot,Student Support,2023,68,73,74,80
+Skyline College,West Bengal,School,Smart Tutor,Learning Support,2021,61,86,59,71
+Inspire School,Gujarat,University,Predictive Analysis,Performance Analytics,2023,43,87,72,85
+Inspire School,Kerala,College,Smart Tutor,Learning Support,2023,65,73,62,76
+Sunshine School,Uttar Pradesh,School,AI Grading,Assessment,2023,42,75,70,83
+GreenField University,Karnataka,School,Smart Tutor,Learning Support,2021,43,75,70,79
+Harmony School,Rajasthan,School,Chatbot,Student Support,2022,52,95,64,78
+Skyline College,Tamil Nadu,College,AI Grading,Assessment,2022,41,81,62,73
+LMN High School,Uttar Pradesh,School,Smart Tutor,Learning Support,2023,90,78,72,83
+Inspire School,Haryana,University,Chatbot,Student Support,2021,85,78,56,69
+Sunshine School,Gujarat,University,Smart Tutor,Learning Support,2023,76,73,73,88
+XYZ College,Punjab,School,Predictive Analysis,Performance Analytics,2023,47,84,55,70
+LMN High School,Kerala,College,AI Grading,Assessment,2021,81,80,59,68
+BlueSky University,Assam,University,Smart Tutor,Learning Support,2022,56,83,72,85
+LMN High School,Kerala,School,Chatbot,Student Support,2021,89,84,60,68
+ABC School,Haryana,University,Predictive Analysis,Performance Analytics,2023,86,74,66,81
+Inspire School,Assam,School,Chatbot,Student Support,2023,65,83,61,68
+XYZ College,Punjab,University,Chatbot,Student Support,2021,83,94,66,72
+NextGen College,Maharashtra,College,AI Grading,Assessment,2021,52,73,57,67
+Vision Institute,Odisha,School,Chatbot,Student Support,2021,42,88,74,85
+FutureEdge College,Haryana,School,Smart Tutor,Learning Support,2022,70,90,60,71
+LMN High School,Odisha,School,Smart Tutor,Learning Support,2022,68,92,75,89
+ABC School,Delhi,University,Predictive Analysis,Performance Analytics,2023,53,77,65,78
+FutureEdge College,Madhya Pradesh,School,Chatbot,Student Support,2021,49,74,71,79
+Sunshine School,Delhi,College,Predictive Analysis,Performance Analytics,2021,40,95,57,63
+Sunshine School,Delhi,School,Predictive Analysis,Performance Analytics,2023,84,94,65,70
+Harmony School,Maharashtra,School,Smart Tutor,Learning Support,2023,49,70,58,68
+TechRise University,Tamil Nadu,College,Predictive Analysis,Performance Analytics,2021,69,80,59,74
+Sunshine School,Haryana,College,AI Grading,Assessment,2022,77,85,61,72
+Inspire School,Haryana,University,AI Grading,Assessment,2023,76,85,65,80
+Vision Institute,Odisha,School,Chatbot,Student Support,2021,43,73,58,66
+Vision Institute,Odisha,University,AI Grading,Assessment,2022,70,71,66,78
+XYZ College,Kerala,University,AI Grading,Assessment,2023,86,80,64,77
+Harmony School,Gujarat,College,Smart Tutor,Learning Support,2022,59,93,73,88
+GreenField University,Gujarat,College,Predictive Analysis,Performance Analytics,2022,89,84,71,83
+Vision Institute,Delhi,University,Predictive Analysis,Performance Analytics,2023,54,76,67,82
+BlueSky University,Punjab,University,Smart Tutor,Learning Support,2022,74,71,73,82
+NextGen College,Delhi,College,Predictive Analysis,Performance Analytics,2022,70,85,73,86
+NextGen College,Rajasthan,School,Smart Tutor,Learning Support,2023,84,77,58,71
+FutureEdge College,Gujarat,University,Chatbot,Student Support,2023,53,75,72,85
+BlueSky University,Karnataka,College,AI Grading,Assessment,2023,42,89,68,75
+NextGen College,Maharashtra,College,Predictive Analysis,Performance Analytics,2021,81,76,58,71
+Skyline College,Rajasthan,University,AI Grading,Assessment,2021,79,72,65,71
+Harmony School,Tamil Nadu,College,AI Grading,Assessment,2023,65,73,59,69
+NextGen College,Madhya Pradesh,School,Predictive Analysis,Performance Analytics,2022,81,88,75,87
+Harmony School,Odisha,School,Smart Tutor,Learning Support,2021,86,95,62,68
+XYZ College,Odisha,College,Smart Tutor,Learning Support,2023,55,88,65,71
+FutureEdge College,Rajasthan,School,Chatbot,Student Support,2023,65,83,55,65
